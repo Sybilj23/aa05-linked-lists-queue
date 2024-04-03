@@ -15,7 +15,7 @@ class SinglyLinkedList {
     addToHead(val) {
         // Add node of val to head of linked list
 
-        // Your code here 
+        // Your code here
 
         // Write your hypothesis on the time complexity of this method here
     }
@@ -45,7 +45,7 @@ class SinglyLinkedList {
     removeFromHead() {
         // Remove node at head
 
-        // Your code here 
+        // Your code here
 
         // Write your hypothesis on the time complexity of this method here
     }
@@ -53,7 +53,7 @@ class SinglyLinkedList {
     removeFromTail() {
         // Remove node at tail
 
-        // Your code here 
+        // Your code here
 
         // Write your hypothesis on the time complexity of this method here
     }
@@ -61,7 +61,7 @@ class SinglyLinkedList {
     peekAtHead() {
         // Return the value of head node
 
-        // Your code here 
+        // Your code here
 
         // Write your hypothesis on the time complexity of this method here
     }
@@ -69,7 +69,7 @@ class SinglyLinkedList {
     print() {
         // Print out the linked list
 
-        // Your code here 
+        // Your code here
 
         // Write your hypothesis on the time complexity of this method here
     }
@@ -79,3 +79,4 @@ module.exports = {
     SinglyLinkedList,
     SinglyLinkedNode
 }
+//test
